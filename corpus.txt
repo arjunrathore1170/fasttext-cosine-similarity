@@ -1,0 +1,41 @@
+the car is fast
+the vehicle moves quickly
+the automobile is speedy
+cars and vehicles can travel on roads
+the cat sits on the mat
+a feline rests on a rug
+cats are small domestic animals
+dogs are loyal animals
+puppies are young dogs
+i love machine learning
+artificial intelligence is interesting
+natural language processing analyzes text
+fasttext creates word embeddings from character ngrams
+word embeddings represent words as numerical vectors
+cosine similarity compares the direction of two vectors
+semantic search finds relevant text
+the weather is sunny today
+it is a bright sunny day
+rain falls from dark clouds
+the student studies computer science
+the learner studies programming
+python is a programming language
+databases store structured information
+the server processes requests
+A computer is an electronic device.
+A laptop is a portable computer.
+A smartphone is a mobile device.
+Python is a programming language.
+Java is used for software development.
+Machine learning helps computers learn from data.
+Artificial intelligence enables machines to perform intelligent tasks.
+Data analytics helps businesses understand information.
+Sales analysis identifies business trends.
+Customer satisfaction improves business performance.
+A doctor treats patients.
+Hospitals provide medical services.
+Students study computer science.
+Teachers help students learn new concepts.
+Football is a popular sport.
+Cricket is played by two teams.
+a laptop is a portable computer.

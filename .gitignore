@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+.streamlit/
+models/*.model
+models/*.bin
+.DS_Store
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Trained model files
+models/
+*.model
+*.npy
+*.npz
+
+# Test cache
+.pytest_cache/
